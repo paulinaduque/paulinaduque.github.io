@@ -8,10 +8,21 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html>\n\n<head>\n\t<title>Paulina Duque</title>\n\t<h1>resume</h1>\n\n</head>\n<body>\n\n\t<a href=\"twitter.com/writingpaulina\" target=\"_blank\">Twitter</a> \n\t\n\t<h2>experience</h2>\n\t\t\n\t\t<h3>Ciesla Foundation (January 2021 - Current)</h3>\n<p>As an intern with the Ciesla Foundation I have worked on researching information for a website we are developing along with a documentary that will be featured on that site.</p>\n\t\t<h3>The Young and Well (September 2020 - Current)</h3>\n<p>As the Spanish-English Liaison I translate for occupational therapy sessions as well as translating anything written from english to spanish.</p>\n\t\t\n\t\t<h3>HerCampus- Maryland (August 2019 - Current) </h3>\n<p>At HerCampus- Maryland, an online publication geared towards college women, I began as a writer and worked my way up to being the senior editor.\n</p>\n\n\t\n\t<h2>Education</h2>\n\t\t<h3>University of Maryland- College Park (2019-2022)</h3>\n\t\t<h3>Gaithersburg High School (2015-2019)</h3>\n\n\n\t<h2>Skills</h2>\n<ul>\n\t\t<h3>FLuent in Spanish</h3>\n\t\t<h3>Photoshop</h3>\n\t\t<h3>Adobe Premiere</h3>\n\t\t<h3>Microsoft Word</h3>\n</ul>\n</body>\n",
 			"file": "duque-resume-jour352",
+			"file_size": 1112,
+			"file_write_time": 132575331083668610,
 			"settings":
 			{
-				"buffer_size": 1135,
+				"buffer_size": 1112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1112,
 				"line_ending": "Unix"
 			}
 		}
@@ -109,7 +120,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1135,
+						"buffer_size": 1112,
 						"regions":
 						{
 						},
@@ -129,6 +140,35 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
