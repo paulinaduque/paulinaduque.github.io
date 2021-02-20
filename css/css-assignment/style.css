@@ -1,23 +1,39 @@
-
 h1{
-	color:#FF8C00;
 	font-family:serif;
-	font-size:64;
+	font-size:64px;
 }
 
 h2{
-	color:#FF8C00;
 	font-family:serif;
-	font-size:34;
+	font-size:34px;
 }
 
-h3{
+p.name{
+	color:#696969;
 	font-family:serif;
-	font-size:24;
-	color:#8FBC8F;
+	font-size:14px;
+}
+
+p.date{
+	font-family:serif;
+	font-size:12px;
+	font-weight:300;
 }
 
 p{
-	font-size:12;
+	font-size:18px;
 	font-family:sans-serif;
+}
+
+p.caption{
+	font-size:16px;
+	font-family:serif;
+
+}
+
+p.sig-content{
+	font-size:16px;
+	font-family:sans-serif;
+	margin:75px 25px 75px 25px;
+
 }
