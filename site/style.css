@@ -7,13 +7,13 @@ h1{
 }
 
 p{
-	padding:30px 60px 30px 60px;
-	margin:30px 80px 30px 80px;
+	padding:300px 60px 300px 60px;
+	margin:300px 800px 30px 80px;
 }
 
 h1{
 	color:#01C309;
 	font-size:42px;
 	font-weight:600;
-	font-family:courier prime, monospace;
+	font-family:"courier prime", courier, monospace;
 }
