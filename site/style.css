@@ -1,6 +1,6 @@
 style.css
 
-p.a{
+h1{
 	padding:50px 30px 50px 30px;
 	margin:25px 70px 25px 70px;
 	
@@ -11,16 +11,9 @@ p{
 	margin:30px 80px 30px 80px;
 }
 
-p.a h1{
-	color:#3388AC;
+h1{
+	color:#01C309;
 	font-size:42px;
 	font-weight:600;
-	font-family:"courier prime", monospace;
-}
-
-h2{
-	color:;
-	font-weight:;
-	font-size:;
-	font-family:;
+	font-family:courier prime, monospace;
 }
