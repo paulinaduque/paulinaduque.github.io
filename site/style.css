@@ -1,7 +1,7 @@
 style.css
 
 
-h1.center {
+h1.container-name{
   padding: 70px 0;
   border: 3px solid green;
   text-align: center;
@@ -12,7 +12,7 @@ h1{
 	
 }
 
-p{
+p.lead{
 	padding:100px 60px 30px 60px;
 	margin:100px 80px 30px 80px;
 }
