@@ -1,5 +1,11 @@
 style.css
 
+
+h1.center {
+  padding: 70px 0;
+  border: 3px solid green;
+  text-align: center;
+}
 h1{
 	padding:50px 30px 50px 30px;
 	margin:25px 70px 25px 70px;
