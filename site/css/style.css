@@ -1,25 +1,44 @@
-style.css
 
-
-h1.container-name{
-  padding: 70px 0;
-  border: 3px solid green;
-  text-align: center;
+body{
+	background-color:#666666;
+	padding:;
 }
+
 h1{
-	padding:50px 30px 50px 30px;
-	margin:25px 70px 25px 70px;
-	
+  border: 3px solid silver;
+  text-align: center;
 }
 
 p.lead{
-	padding:100px 60px 30px 60px;
-	margin:100px 80px 30px 80px;
+	font-size:22px;
+	font-weight:250;
+	font-color:#E8E8E8;
+	font-family:"crimson text," serif;
+	text-align:right;
+	width:50%;
+	float:right;
+
+}
+p.left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  float:left;
 }
 
 h1{
-	color:#01C309;
-	font-size:42px;
-	font-weight:600;
-	font-family:"courier prime", courier, monospace;
+	color:#DCFFF9;
+	font-size:102px;
+	font-weight:200;
+	font-family:"nanum gothic," sans-serif;
+}
+
+.vl {
+  border-left: 6px silver;
+  height: 800px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 10;
 }
