@@ -1,6 +1,9 @@
 
+body {
+ background-image: url("/site/brick");
+ background-color: #cccccc;
+}
 body{
-	background-color:#666666;
 	padding:;
 }
 
