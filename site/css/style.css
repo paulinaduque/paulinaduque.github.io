@@ -14,10 +14,9 @@ h1{
 p.lead{
 	font-size:22px;
 	font-weight:250;
-	font-color:#E8E8E8;
+	color:#E8E8E8;
 	font-family:"crimson text," serif;
 	text-align:right;
-	width:50%;
 	float:right;
 
 }
@@ -42,5 +41,5 @@ h1{
   position: absolute;
   left: 50%;
   margin-left: -3px;
-  top: 10;
+  top: 10px;
 }
