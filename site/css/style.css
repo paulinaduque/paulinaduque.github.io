@@ -2,10 +2,13 @@
 body {
  background-image: url("../site/images/brick.jpeg");
 }
-body{
-	padding:;
+ #twitter{
+    background-image: url(../site/images/twitter.jpg);
+    width: 981px;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
 }
-
 h1{
   border: 3px solid silver;
   text-align: center;
