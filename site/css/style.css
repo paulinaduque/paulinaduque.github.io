@@ -1,8 +1,8 @@
 
 body {
- background-image: url("../site/images/brick.jpeg");
+ background-color:#8EB8AD;
 }
- #twitter{
+#twitter{
     background-image: url(../site/images/twitter.jpg);
     width: 981px;
     height: 180px;
@@ -12,6 +12,9 @@ body {
 h1{
   border: 3px solid silver;
   text-align: center;
+}
+.img{
+  align-content:left;
 }
 
 p.lead{
@@ -38,11 +41,8 @@ h1{
 	font-family:"nanum gothic," sans-serif;
 }
 
-.vl {
-  border-left: 6px silver;
-  height: 800px;
-  position: absolute;
-  left: 50%;
-  margin-left: -3px;
-  top: 10px;
+h2{
+  color:#FFE45E;
+  font-family: 'Crimson Text', serif;
+  font-size:42px;
 }
