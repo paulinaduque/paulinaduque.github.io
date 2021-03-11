@@ -7,15 +7,12 @@ h1{
   border: 3px solid silver;
   text-align: center;
 }
-.img{
-  align-content:left;
-}
 
 p.lead{
 	font-size:22px;
-	font-weight:250;
+	font-weight:200;
 	color:#E8E8E8;
-	font-family:"crimson text," serif;
+	font-family:'crimson text', serif;
 	text-align:right;
 	float:right;
 
@@ -37,7 +34,7 @@ h1{
 	color:#DCFFF9;
 	font-size:102px;
 	font-weight:200;
-	font-family:"nanum gothic," sans-serif;
+	font-family:'nanum gothic', sans-serif;
 }
 
 h2{
