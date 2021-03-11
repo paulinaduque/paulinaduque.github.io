@@ -44,5 +44,33 @@ h2{
   color:#FFE45E;
   font-family: 'Crimson Text', serif;
   font-size:42px;
+
+}
+
+/* unvisited link */
+a:link {
+  color:#FFE45E;
+  font-family: 'Crimson Text', serif;
+  font-size:32px;
+}
+
+/* visited link */
+a:visited {
+  color:#FFE45E;
+  font-family: 'Crimson Text', serif;
+  font-size:32px;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color:#FFE45E;
+  font-family: 'Crimson Text', serif;
+  font-size:32px;
+
 }
 
