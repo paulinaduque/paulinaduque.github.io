@@ -9,14 +9,20 @@ h1{
 	color:#990f02;
 	font-size:102px;
 	font-weight:200;
-	font-family:'nanum gothic', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+  padding:auto;
+  margin:auto;
+  text-align:center;
 }
 
 h2{
-  color:#9e2009;
-  font-family: 'Crimson Text', serif;
+font-family: 'Montserrat', sans-serif;
   font-size:42px;
+color:#990f02;
+}
 
+p{
+font-family: 'Shippori Mincho B1', serif;
 }
 
 /* unvisited link */
