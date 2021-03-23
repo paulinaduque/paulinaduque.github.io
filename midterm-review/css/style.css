@@ -1,5 +1,4 @@
-
-body {
+body{
  background-color:#ededed;
  padding:50px 100px 50px 100px;
  margin: 25px 50px 25px 50px;
@@ -10,7 +9,6 @@ h1{
 	font-size:102px;
 	font-weight:200;
 	font-family: 'Montserrat', sans-serif;
-  padding:auto;
   margin:auto;
   text-align:center;
 }
