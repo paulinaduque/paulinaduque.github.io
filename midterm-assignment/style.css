@@ -6,10 +6,11 @@ body {
 nav{
   font-family: 'Anton', sans-serif;
   font-family: 'Anton', sans-serif;
+  margin: 576 768;
 }
 
 h1{
-  border: 3px solid silver;
+  border: 37px 85px 37px;
   text-align: center;
   font-family: 'Anton', sans-serif;
 }
