@@ -4,12 +4,12 @@ body{
  margin: auto 5%;
  line-height:1.75;
  text-align:center;
- padding:37px 85px 37px;
+ padding:37px 85px;
 }
 
 .bio{
   line-height:1;
-  padding:37px 85px 37px;
+  padding:37px 85px;
   font-weight:500;
   font-style:italic;
   font-size:18px;
@@ -18,7 +18,7 @@ body{
 
 h1{
   line-height:2;
-  border: 37px 85px 37px;
+  border: 37px 85px;
   text-align: center;
   font-family: 'Anton', sans-serif;
   color:#010833;
@@ -64,7 +64,7 @@ p{
 }
 .img{
   float:right;
-  width:400px;
+  width:100%;
   height:auto;
 }
 
@@ -73,6 +73,7 @@ p{
 }
 .container{
   float:right;
+
 }
 /* unvisited link */
 a:link {
