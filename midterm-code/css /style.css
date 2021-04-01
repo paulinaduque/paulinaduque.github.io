@@ -50,8 +50,13 @@ p{
 .credits{
   font-weight:600;
   font-size:14px;
-}
 
+}
+.hr{
+  width:25%;
+  height:2px;
+
+}
 /* unvisited link */
 a:link {
   color:#FFE45E;
