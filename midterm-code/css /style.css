@@ -1,8 +1,8 @@
 
-body {
- background-color: #fc5f1a;
-  margin:576 768;
-
+body{
+ background-color:#fc5f1a;
+ margin:576 768;
+ text-align:center;
 }
 
 h1{
@@ -11,6 +11,7 @@ h1{
   font-family: 'Anton', sans-serif;
   color:#010833;
   font-size:60px;
+  line-height:1;
 }
 
 
@@ -21,7 +22,6 @@ p{
 	font-family:'anton', sans-serif;
 	text-align:right;
 	float:right;
-
 }
 
 /* unvisited link */
