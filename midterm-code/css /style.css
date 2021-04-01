@@ -47,6 +47,11 @@ p{
   letter-spacing:2.5px;
 }
 
+.credits{
+  font-weight:600;
+  font-size:14px;
+}
+
 /* unvisited link */
 a:link {
   color:#FFE45E;
@@ -59,18 +64,18 @@ a:link {
 a:visited {
   color:#FFE45E;
   font-family: 'Crimson Text', serif;
-  font-size:32px;
+  font-size:12px;
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: yellow;
 }
 
 /* selected link */
 a:active {
   color:#FFE45E;
   font-family: 'Crimson Text', serif;
-  font-size:32px;
+  font-size:12px;
 }
 
