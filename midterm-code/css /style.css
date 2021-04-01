@@ -8,7 +8,10 @@ body{
 .bio{
   line-height:1;
   padding:37px 85px 37px;
+  font-weight:500;
+  font-style:italic;
 }
+
 }
 h1{
   border: 37px 85px 37px;
@@ -17,8 +20,6 @@ h1{
   color:#010833;
   font-size:60px;
   line-height:1;
-
-
 }
 
 .line2{
@@ -36,16 +37,22 @@ p{
 	font-size:42px;
 	font-weight:200;
 	color:#010833;
-	font-family:'anton', sans-serif;
+	font-family: 'Nunito Sans', sans-serif;
 	text-align:center;
   line-height:1.75;
+}
+
+.title{
+  padding:70px;
+  letter-spacing:2.5px;
 }
 
 /* unvisited link */
 a:link {
   color:#FFE45E;
   font-family: 'Crimson Text', serif;
-  font-size:32px;
+  font-size:12px;
+  font-weight:600;
 }
 
 /* visited link */
@@ -65,6 +72,5 @@ a:active {
   color:#FFE45E;
   font-family: 'Crimson Text', serif;
   font-size:32px;
-
 }
 
