@@ -1,10 +1,15 @@
 
 body{
  background-color:#fc5f1a;
- margin:576 768;
+ margin:5%;
  text-align:center;
 }
 
+.bio{
+  line-height:1;
+  padding:37px 85px 37px;
+}
+}
 h1{
   border: 37px 85px 37px;
   text-align: center;
@@ -12,16 +17,28 @@ h1{
   color:#010833;
   font-size:60px;
   line-height:1;
+
+
 }
 
+.line2{
+  font-size:120px;
+}
+.box{
+  font-size:18px;
+  background-color:white;
+  font-color:#010833;
+  letter-spacing:2.5px;
+  padding:left 2% right 2%;
+}
 
 p{
 	font-size:42px;
 	font-weight:200;
 	color:#010833;
 	font-family:'anton', sans-serif;
-	text-align:right;
-	float:right;
+	text-align:center;
+  line-height:1.75;
 }
 
 /* unvisited link */
