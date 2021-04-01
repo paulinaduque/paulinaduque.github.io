@@ -1,12 +1,8 @@
 
 body {
- background-color:#fc5f1a;
+ background-color: #fc5f1a;
+  margin:576 768;
 
-}
-
-nav{
-  font-family: 'Anton', sans-serif;
-  margin: 576 768;
 }
 
 h1{
@@ -14,6 +10,7 @@ h1{
   text-align: center;
   font-family: 'Anton', sans-serif;
   color:#010833;
+  font-size:60px;
 }
 
 
