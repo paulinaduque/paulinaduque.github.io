@@ -1,8 +1,10 @@
 
 body{
  background-color:#fc5f1a;
- margin:5%;
+ margin: auto 5%;
+ line-height:1.75;
  text-align:center;
+ padding:37px 85px 37px;
 }
 
 .bio{
@@ -10,10 +12,12 @@ body{
   padding:37px 85px 37px;
   font-weight:500;
   font-style:italic;
+  font-size:18px;
 }
 
-}
+
 h1{
+  line-height:2;
   border: 37px 85px 37px;
   text-align: center;
   font-family: 'Anton', sans-serif;
@@ -25,16 +29,17 @@ h1{
 .line2{
   font-size:120px;
 }
+
 .box{
   font-size:18px;
-  background-color:white;
+  background-color: white;
   font-color:#010833;
   letter-spacing:2.5px;
   padding:left 2% right 2%;
 }
 
 p{
-	font-size:42px;
+	font-size:18px;
 	font-weight:200;
 	color:#010833;
 	font-family: 'Nunito Sans', sans-serif;
@@ -50,12 +55,24 @@ p{
 .credits{
   font-weight:600;
   font-size:14px;
-
 }
+
 .hr{
   width:25%;
   height:2px;
 
+}
+.img{
+  float:right;
+  width:400px;
+  height:auto;
+}
+
+.text{
+  float:left;
+}
+.container{
+  float:right;
 }
 /* unvisited link */
 a:link {
