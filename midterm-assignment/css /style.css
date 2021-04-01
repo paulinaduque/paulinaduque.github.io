@@ -1,6 +1,7 @@
 
 body {
  background-color:#fc5f1a;
+
 }
 
 nav{
@@ -12,13 +13,14 @@ h1{
   border: 37px 85px 37px;
   text-align: center;
   font-family: 'Anton', sans-serif;
+  color:#010833;
 }
 
 
-p.lead{
-	font-size:22px;
+p{
+	font-size:42px;
 	font-weight:200;
-	color:#E8E8E8;
+	color:#010833;
 	font-family:'crimson text', serif;
 	text-align:right;
 	float:right;
