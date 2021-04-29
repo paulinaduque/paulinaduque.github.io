@@ -1,17 +1,14 @@
 
 body {
- background-color:#8EB8AD;
+ background-color:#ffffff;
 }
 
 h1{
-  border: 3px solid silver;
-  text-align: center;
-}
-h1{
-	color:#DCFFF9;
+	color:#ffd367;
 	font-size:80px;
-	font-weight:200;
-	font-family:'nanum gothic', sans-serif;
+	font-family: 'Patrick Hand', cursive;
+  text-align:center;
+
 }
 p{
   font-size:16px;
