@@ -1,0 +1,73 @@
+
+body {
+ background-color:#8EB8AD;
+}
+
+h1{
+  border: 3px solid silver;
+  text-align: center;
+}
+
+p.lead{
+	font-size:22px;
+	font-weight:200;
+	color:#E8E8E8;
+	font-family:'crimson text', serif;
+	text-align:right;
+	float:right;
+
+}
+p.left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  float:left;
+}
+h1.name{
+  font-family: 'Indie Flower', cursive;
+  font-size:120px;
+  color:#DCFFF9;
+}
+
+h1{
+	color:#DCFFF9;
+	font-size:102px;
+	font-weight:200;
+	font-family:'nanum gothic', sans-serif;
+}
+
+h2{
+  color:#FFE45E;
+  font-family: 'Crimson Text', serif;
+  font-size:42px;
+
+}
+
+/* unvisited link */
+a:link {
+  color:#FFE45E;
+  font-family: 'Crimson Text', serif;
+  font-size:32px;
+}
+
+/* visited link */
+a:visited {
+  color:#FFE45E;
+  font-family: 'Crimson Text', serif;
+  font-size:32px;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color:#FFE45E;
+  font-family: 'Crimson Text', serif;
+  font-size:32px;
+
+}
+
