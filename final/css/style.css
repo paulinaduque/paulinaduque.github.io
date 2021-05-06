@@ -1,5 +1,5 @@
 
-body {
+body{
  background-color:#f5f6f6;
 }
 
@@ -26,7 +26,7 @@ h3{
 
 h1#dark {
   color:black;
-  font-style:bold;
+  font-weight:bold;
   font-size:120px;
   background-color:#686868;
 }
@@ -37,7 +37,7 @@ p{
   line-height:36px;
 }
 
-#box {
+#box{
     padding: 40px;
     background:
       linear-gradient(to top, #1ab6b8, #1ab6b8 10px, transparent 10px),
@@ -46,30 +46,3 @@ p{
       linear-gradient(to left, #50c9ca, #50c9ca 10px, transparent 10px);
   background-origin: border-box;
 }
-/* unvisited link */
-a:link {
-  color:#FFE45E;
-  font-family: 'Crimson Text', serif;
-  font-size:32px;
-}
-
-/* visited link */
-a:visited {
-  color:#FFE45E;
-  font-family: 'Crimson Text', serif;
-  font-size:32px;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color:#FFE45E;
-  font-family: 'Crimson Text', serif;
-  font-size:32px;
-
-}
-
