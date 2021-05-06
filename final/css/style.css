@@ -1,19 +1,50 @@
 
 body {
- background-color:#ffffff;
+ background-color:#f5f6f6;
 }
 
 
 h1{
-	color:#ffd367;
+	color:#1AB6B8;
 	font-size:80px;
-	font-family: 'Patrick Hand', cursive;
+font-family: 'Cabin', sans-serif;
   text-align:center;
-
 }
+
+h2{
+  color:black;
+  font-size:16px;
+  font-family:'Cabin', sans-serif;
+  padding:2px 8px;
+}
+h3{
+  color:black;
+  font-size:10px;
+  font-family:'Cabin', sans-serif;
+  padding:2px 8px;
+}
+
+h1#dark {
+  color:black;
+  font-style:bold;
+  font-size:120px;
+  background-color:#686868;
+}
+
 p{
   font-size:16px;
   font-family: 'Libre Baskerville', serif;
+  line-height:36px;
+}
+
+#box {
+    padding: 40px;
+    background:
+      linear-gradient(to top, #1ab6b8, #1ab6b8 10px, transparent 10px),
+      linear-gradient(to right, #18888a, #18888a 10px, transparent 10px),
+      linear-gradient(to bottom, #a5e9ea, #a5e9ea 10px, transparent 10px),
+      linear-gradient(to left, #50c9ca, #50c9ca 10px, transparent 10px);
+  background-origin: border-box;
 }
 /* unvisited link */
 a:link {
