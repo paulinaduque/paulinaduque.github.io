@@ -25,10 +25,10 @@ h3{
 }
 
 h1#dark {
-  color:black;
+  color:#f5f6f6;
   font-weight:bold;
   font-size:120px;
-  background-color:#686868;
+  background-color:black;
 }
 
 p{
@@ -45,4 +45,24 @@ p{
       linear-gradient(to bottom, #a5e9ea, #a5e9ea 10px, transparent 10px),
       linear-gradient(to left, #50c9ca, #50c9ca 10px, transparent 10px);
   background-origin: border-box;
+}
+
+/* unvisited link */
+a:link {
+  color: #1ab6b8;
+}
+
+/* visited link */
+a:visited {
+  color: #18888a;
+}
+
+/* mouse over link */
+a:hover {
+  color: #a5e9ea;
+}
+
+/* selected link */
+a:active {
+  color: #50c9ca;
 }
