@@ -1,15 +1,10 @@
 
 body{
  background-color:#fc5f1a;
- margin: auto 5%;
- line-height:1.75;
  text-align:center;
- padding:37px 85px;
 }
 
 .bio{
-  line-height:1;
-  padding:37px 85px;
   font-weight:500;
   font-style:italic;
   font-size:18px;
@@ -17,13 +12,10 @@ body{
 
 
 h1{
-  line-height:2;
-  border: 37px 85px;
   text-align: center;
   font-family: 'Anton', sans-serif;
   color:#010833;
   font-size:60px;
-  line-height:1;
 }
 
 .line2{
@@ -35,7 +27,6 @@ h1{
   background-color: white;
   font-color:#010833;
   letter-spacing:2.5px;
-  padding:left 2% right 2%;
 }
 
 p{
@@ -44,7 +35,6 @@ p{
 	color:#010833;
 	font-family: 'Nunito Sans', sans-serif;
 	text-align:center;
-  line-height:1.75;
 }
 
 .title{
